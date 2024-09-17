@@ -6,3 +6,4 @@ function saludar(){
 function mensajePersonalizado(){
     return "Mensaje desde funcionalidad-1";
 }
+echo "Cambio desde master";
