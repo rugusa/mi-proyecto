@@ -1,3 +1,2 @@
 cambio en el fichero
-cambio de local a remoto
-camdio desde github func2
+cambio de local a remotocat re
