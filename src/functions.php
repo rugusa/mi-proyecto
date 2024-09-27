@@ -8,3 +8,4 @@ function mensajePersonalizado(){
 }
 echo "Cambio desde master";
 echo "Cambios desde funcionalidad-1";
+echo "cambio desde funcionalidad2";
